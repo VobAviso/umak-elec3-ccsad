@@ -12,9 +12,9 @@ How to use this template:
 
 ## About us
 
-- Group number: Aquamarine
+- Group number: Group 7
 - Section: CCSAD
-- Group IAM user: Group 7
+- Group IAM user: ccsad-g07
 - Function name: umak-elec3-ccsad-g07-api
 
 ## Handler code
